@@ -1,0 +1,20 @@
+[
+  {
+    "model_index": 0,
+    "category_id": 1,
+    "source_category_id": 1,
+    "name": "Wrenches"
+  },
+  {
+    "model_index": 1,
+    "category_id": 2,
+    "source_category_id": 2,
+    "name": "pliers"
+  },
+  {
+    "model_index": 2,
+    "category_id": 3,
+    "source_category_id": 3,
+    "name": "screwdriver"
+  }
+]

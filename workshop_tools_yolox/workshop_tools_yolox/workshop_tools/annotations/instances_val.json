@@ -1,0 +1,605 @@
+{
+  "info": {
+    "year": "2026",
+    "version": "2",
+    "description": "Exported from roboflow.com",
+    "contributor": "",
+    "url": "https://public.roboflow.com/object-detection/undefined",
+    "date_created": "2026-09-08T14:02:56+00:00"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "name": "CC BY 4.0"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Wrenches",
+      "supercategory": "tool"
+    },
+    {
+      "id": 2,
+      "name": "pliers",
+      "supercategory": "tool"
+    },
+    {
+      "id": 3,
+      "name": "screwdriver",
+      "supercategory": "tool"
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "license": 1,
+      "file_name": "bbf0def0-923f-4635-8623-e5fa14cd72f9_jpg.rf.235c87faa5763cd267571142664e133e.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "bbf0def0-923f-4635-8623-e5fa14cd72f9.jpg"
+      }
+    },
+    {
+      "id": 1,
+      "license": 1,
+      "file_name": "0bf90fa3-f09a-49d8-96f0-9f2acd4029b3_jpg.rf.bc1649894f42ca831d6d79bd7bd57aae.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "0bf90fa3-f09a-49d8-96f0-9f2acd4029b3.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "license": 1,
+      "file_name": "needle-nose-plier-2048px-4292-2x1-1_jpg.rf.707163aba36e070f7be45e01519d9af6.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "needle-nose-plier-2048px-4292-2x1-1.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "license": 1,
+      "file_name": "Image_1785860273691_jpg.rf.60377df13a09c5c5c8995dc2d75ed984.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "Image_1785860273691.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "license": 1,
+      "file_name": "Close-up-of-hand-using-Tolsen-160mm-long-nose-pliers-to-cut-thin-metal-wire-jpg_jpg.rf.374b808890a49d33223aa160844b6baa.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "Close-up-of-hand-using-Tolsen-160mm-long-nose-pliers-to-cut-thin-metal-wire-jpg.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "license": 1,
+      "file_name": "photo_6309853291008955713_w_jpg.rf.7f9a25672526ceec555c426ba0c95e83.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "photo_6309853291008955713_w.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "license": 1,
+      "file_name": "IMG-20260804-WA0036_jpg.rf.6116b06c10db1b71bd4ebcc10894262b.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "IMG-20260804-WA0036.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "license": 1,
+      "file_name": "original-638486132195226217_jpg.rf.9391b2e1906e1a16abf2492dce233b3b.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "original-638486132195226217.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "license": 1,
+      "file_name": "Image_1785859908360_jpg.rf.755f27d9b4e203bec6d041e0af42a71e.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "Image_1785859908360.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "license": 1,
+      "file_name": "IMG-20260804-WA0037_jpg.rf.cb50e5a8cb1350e0c9a699900618d500.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "IMG-20260804-WA0037.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "license": 1,
+      "file_name": "Image_1785860034575_jpg.rf.28350a2810b5cb2235bae0b5b4faf518.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "Image_1785860034575.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "license": 1,
+      "file_name": "SPR-Types-of-Screwdriver-5324555-Phillips-02-eae5aee7ea114a89bc317c1813f032dd_jpg.rf.9025696952d424293dabf3be2b55c50f.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "SPR-Types-of-Screwdriver-5324555-Phillips-02-eae5aee7ea114a89bc317c1813f032dd.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "license": 1,
+      "file_name": "ad2028c3-0506-456a-8921-ed797ce8ea71_jpg.rf.f24e078cd9ab36dc92673d87eb9faaa7.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "ad2028c3-0506-456a-8921-ed797ce8ea71.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "license": 1,
+      "file_name": "a9a2e8b2-3d7f-4b13-b7f2-6e0242befe24_jpg.rf.4807140d229cb9f1d87a1237def87d0f.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "a9a2e8b2-3d7f-4b13-b7f2-6e0242befe24.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "license": 1,
+      "file_name": "c9ae9cfa-f5b0-4a58-8e65-dc0c2f06f9e0_jpg.rf.64c9a2e7810c9de4059f17c99e119059.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "name": "c9ae9cfa-f5b0-4a58-8e65-dc0c2f06f9e0.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "license": 1,
+      "file_name": "u31m2ahh7a671_jpg.rf.b06384ef3eec276ea24df1d2b5ddb2d3.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "u31m2ahh7a671.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "license": 1,
+      "file_name": "IMG-20260804-WA0046_jpg.rf.a8b7933b26f021f1ef717eda1f16db6f.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "IMG-20260804-WA0046.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "license": 1,
+      "file_name": "IMG-20260804-WA0043_jpg.rf.42d92fc93df5305da071474182da32e8.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "IMG-20260804-WA0043.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "license": 1,
+      "file_name": "IMG-20260804-WA0035_jpg.rf.75f0c4bfcaf071b5a909bf9720791df7.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "IMG-20260804-WA0035.jpg"
+      }
+    },
+    {
+      "id": 19,
+      "license": 1,
+      "file_name": "Image_1785858954306_jpg.rf.acc87bca8f5791bffc3387a634d7c40c.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-09-08T14:02:57+00:00",
+      "extra": {
+        "user_tags": [
+          "qr-upload"
+        ],
+        "name": "Image_1785858954306.jpg"
+      }
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 3,
+      "bbox": [
+        270.75,
+        148.75,
+        105.5,
+        268.5
+      ],
+      "iscrowd": 0,
+      "area": 28326.75,
+      "segmentation": []
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 3,
+      "bbox": [
+        37.25,
+        248.75,
+        544.5,
+        192.5
+      ],
+      "iscrowd": 0,
+      "area": 104816.25,
+      "segmentation": []
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 2,
+      "bbox": [
+        62,
+        220.75,
+        274,
+        373.5
+      ],
+      "iscrowd": 0,
+      "area": 102339,
+      "segmentation": []
+    },
+    {
+      "id": 4,
+      "image_id": 2,
+      "category_id": 2,
+      "bbox": [
+        298.25,
+        36.25,
+        274.5,
+        342.5
+      ],
+      "iscrowd": 0,
+      "area": 94016.25,
+      "segmentation": []
+    },
+    {
+      "id": 5,
+      "image_id": 3,
+      "category_id": 2,
+      "bbox": [
+        158,
+        104.25,
+        308,
+        495.5
+      ],
+      "iscrowd": 0,
+      "area": 152614,
+      "segmentation": []
+    },
+    {
+      "id": 6,
+      "image_id": 4,
+      "category_id": 2,
+      "bbox": [
+        38.25,
+        58.25,
+        601.5,
+        352.5
+      ],
+      "iscrowd": 0,
+      "area": 212028.75,
+      "segmentation": []
+    },
+    {
+      "id": 7,
+      "image_id": 5,
+      "category_id": 3,
+      "bbox": [
+        155.25,
+        129,
+        373.5,
+        470
+      ],
+      "iscrowd": 0,
+      "area": 175545,
+      "segmentation": []
+    },
+    {
+      "id": 8,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        191,
+        22.5,
+        232,
+        517
+      ],
+      "iscrowd": 0,
+      "area": 119944,
+      "segmentation": []
+    },
+    {
+      "id": 9,
+      "image_id": 7,
+      "category_id": 2,
+      "bbox": [
+        35,
+        230.5,
+        574,
+        183
+      ],
+      "iscrowd": 0,
+      "area": 105042,
+      "segmentation": []
+    },
+    {
+      "id": 10,
+      "image_id": 8,
+      "category_id": 2,
+      "bbox": [
+        0,
+        189,
+        640,
+        450
+      ],
+      "iscrowd": 0,
+      "area": 288000,
+      "segmentation": []
+    },
+    {
+      "id": 11,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        66,
+        150.75,
+        488,
+        338.5
+      ],
+      "iscrowd": 0,
+      "area": 165188,
+      "segmentation": []
+    },
+    {
+      "id": 12,
+      "image_id": 10,
+      "category_id": 2,
+      "bbox": [
+        229.25,
+        271,
+        163.5,
+        303
+      ],
+      "iscrowd": 0,
+      "area": 49540.5,
+      "segmentation": []
+    },
+    {
+      "id": 13,
+      "image_id": 11,
+      "category_id": 3,
+      "bbox": [
+        46.75,
+        30.75,
+        532.5,
+        567.5
+      ],
+      "iscrowd": 0,
+      "area": 302193.75,
+      "segmentation": []
+    },
+    {
+      "id": 14,
+      "image_id": 12,
+      "category_id": 3,
+      "bbox": [
+        266.75,
+        158.5,
+        108.5,
+        280
+      ],
+      "iscrowd": 0,
+      "area": 30380,
+      "segmentation": []
+    },
+    {
+      "id": 15,
+      "image_id": 13,
+      "category_id": 3,
+      "bbox": [
+        212.5,
+        22.5,
+        229,
+        396
+      ],
+      "iscrowd": 0,
+      "area": 90684,
+      "segmentation": []
+    },
+    {
+      "id": 16,
+      "image_id": 14,
+      "category_id": 3,
+      "bbox": [
+        132.25,
+        32.75,
+        146.5,
+        560.5
+      ],
+      "iscrowd": 0,
+      "area": 82113.25,
+      "segmentation": []
+    },
+    {
+      "id": 17,
+      "image_id": 14,
+      "category_id": 3,
+      "bbox": [
+        281,
+        0,
+        123,
+        515
+      ],
+      "iscrowd": 0,
+      "area": 63345,
+      "segmentation": []
+    },
+    {
+      "id": 18,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        206.75,
+        6.75,
+        217.5,
+        600.5
+      ],
+      "iscrowd": 0,
+      "area": 130608.75,
+      "segmentation": []
+    },
+    {
+      "id": 19,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        79,
+        133.5,
+        475,
+        334
+      ],
+      "iscrowd": 0,
+      "area": 158650,
+      "segmentation": []
+    },
+    {
+      "id": 20,
+      "image_id": 17,
+      "category_id": 1,
+      "bbox": [
+        169,
+        130.5,
+        320,
+        337
+      ],
+      "iscrowd": 0,
+      "area": 107840,
+      "segmentation": []
+    },
+    {
+      "id": 21,
+      "image_id": 18,
+      "category_id": 1,
+      "bbox": [
+        192.75,
+        27.25,
+        256.5,
+        502.5
+      ],
+      "iscrowd": 0,
+      "area": 128891.25,
+      "segmentation": []
+    },
+    {
+      "id": 22,
+      "image_id": 19,
+      "category_id": 1,
+      "bbox": [
+        122.25,
+        120.25,
+        307.5,
+        517.5
+      ],
+      "iscrowd": 0,
+      "area": 159131.25,
+      "segmentation": []
+    }
+  ]
+}

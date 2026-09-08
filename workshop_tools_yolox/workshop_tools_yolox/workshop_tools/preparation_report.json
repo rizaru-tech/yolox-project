@@ -1,0 +1,52 @@
+{
+  "source_zip": "Workshop tools 3.v2i.coco.zip",
+  "classes": [
+    "Wrenches",
+    "pliers",
+    "screwdriver"
+  ],
+  "removed_unused_categories": [
+    {
+      "id": 0,
+      "name": "Warehouse-cbFv-B57h"
+    }
+  ],
+  "split_policy": "Preserved source train/valid/test; valid renamed val. No resplit.",
+  "splits": {
+    "train": {
+      "images": 360,
+      "bounding_boxes": 483,
+      "boxes_per_class": {
+        "Wrenches": 147,
+        "pliers": 162,
+        "screwdriver": 174
+      },
+      "negative_images": 0
+    },
+    "val": {
+      "images": 20,
+      "bounding_boxes": 22,
+      "boxes_per_class": {
+        "Wrenches": 7,
+        "pliers": 7,
+        "screwdriver": 8
+      },
+      "negative_images": 0
+    },
+    "test": {
+      "images": 10,
+      "bounding_boxes": 10,
+      "boxes_per_class": {
+        "Wrenches": 5,
+        "pliers": 2,
+        "screwdriver": 3
+      },
+      "negative_images": 0
+    }
+  },
+  "cross_split_identical_images": [],
+  "warnings": [
+    "Near-duplicate visual belum diperiksa.",
+    "Test hanya 10 gambar pada ZIP sumber ini; belum cukup untuk evaluasi produksi."
+  ]
+}
