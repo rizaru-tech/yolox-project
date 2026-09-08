@@ -28,3 +28,5 @@ apa arti dari ini, apakah sebelumnya ada proses yang dilakukan Anotasi asli teta
 1. 12 bbox train berukuran nyaris titik/garis dibuang dari salinan training
 2. Terdapat 7 bbox hampir memenuhi seluruh gambar yang masih perlu inspeksi manual
 3. Dataset belum mempunyai background-only/negative images dan test set masih sangat kecil
+
+https://drive.google.com/file/d/19tB7cY8Bgm0e2sOFcQFzUo0LqofH-PFF/view?usp=sharing
