@@ -30,3 +30,4 @@ apa arti dari ini, apakah sebelumnya ada proses yang dilakukan Anotasi asli teta
 3. Dataset belum mempunyai background-only/negative images dan test set masih sangat kecil
 
 https://drive.google.com/file/d/19tB7cY8Bgm0e2sOFcQFzUo0LqofH-PFF/view?usp=sharing
+https://chatgpt.com/s/cx_6aa9c0f6c6b48191a30cf33e9b381718
